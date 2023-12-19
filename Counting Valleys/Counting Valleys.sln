@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Valleys", "Counting Valleys\Counting Valleys.vcxproj", "{14A97831-7859-4A21-A830-BFAC1AE58C35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Debug|x64.ActiveCfg = Debug|x64
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Debug|x64.Build.0 = Debug|x64
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Debug|x86.ActiveCfg = Debug|Win32
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Debug|x86.Build.0 = Debug|Win32
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Release|x64.ActiveCfg = Release|x64
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Release|x64.Build.0 = Release|x64
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Release|x86.ActiveCfg = Release|Win32
+		{14A97831-7859-4A21-A830-BFAC1AE58C35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB5C304-5E41-4873-A54A-3296C34367C2}
+	EndGlobalSection
+EndGlobal

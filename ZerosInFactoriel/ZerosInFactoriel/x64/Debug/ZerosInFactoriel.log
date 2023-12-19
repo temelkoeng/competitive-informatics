@@ -1,0 +1,4 @@
+﻿  ZerosInFactoriel.cpp
+C:\Users\Ivelina\Downloads\competitive informatics\ZerosInFactoriel\ZerosInFactoriel\ZerosInFactoriel.cpp(19,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ivelina\Downloads\competitive informatics\ZerosInFactoriel\ZerosInFactoriel\ZerosInFactoriel.cpp(20,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ZerosInFactoriel.vcxproj -> C:\Users\Ivelina\Downloads\competitive informatics\ZerosInFactoriel\x64\Debug\ZerosInFactoriel.exe
